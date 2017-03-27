@@ -2,7 +2,7 @@
 Customize Leaflet maps with a linked Google Sheets template and GeoJSON data on GitHub
 
 ## Live links (replace with your own)
-- Leaflet Map  https://garymat.github.io/leaflet-maps-with-google-sheets/
+- Leaflet Map  https://garymat.github.io/Professional-Sports-Stadiums-in-Chicago-and-Suburbs/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1ObX7c6wg9fWBx_EaiOnwj7kn7WzHWVBE4Pf5ebcyBP8/edit#gid=0
 ## Create your own
 - See video with step-by-step tutorial in *Data Visualization for All* http://www.datavizforall.org/leaflet/with-google-sheets/
